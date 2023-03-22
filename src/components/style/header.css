@@ -1,0 +1,101 @@
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+
+
+}
+
+
+.outer{
+    min-height: 700px;
+    background: rgb(236, 247, 252);
+}
+.main_div{
+    display: flex;
+}
+
+.left_circle{
+    min-height: 300px;
+    min-width: 300px;
+    /* background: gray; */
+    border-radius: 50%;
+    position: absolute;
+    border: 70px solid white;
+    box-sizing: border-box;
+    top: -100px;
+    left: -100px;
+    float: left;
+    z-index: 0;
+    box-shadow: 0px 0px 5px 1px rgb(230, 231, 231);
+}
+.right_circle{
+    min-height: 500px;
+    min-width: 500px;
+    border-radius: 50%;
+    position: absolute;
+    background: white;
+    border: 70px solid white;
+    box-sizing: border-box;
+    right: 0px;
+    top: -150px;
+    z-index: 0.1;
+    box-shadow: 0px 0px 5px 1px rgb(230, 231, 231);
+    margin-right: -100px;
+
+}
+
+.txt_hover{
+    color: blue;
+    z-index: 1;
+}
+.txt_hover a{
+    color: blue;
+}
+.txt_hover a:hover{
+    color: white;
+}
+.txt_hover:hover
+{
+    background: rgb(39, 39, 252);
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+}
+.head{
+    color: rgb(3, 3, 100);
+}
+.my_btn{
+    text-align: justify;
+    display: flex;
+}
+.Khali{
+    height: 600px;
+    background:#ebeeff;
+    z-index: 0;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 1px rgb(230, 231, 231);
+    /* max-width: 00px; */
+}
+.btn-hover:hover{
+    background: rgb(39, 39, 252);
+    border-radius: 20px;
+    color: white;
+    
+}
+.heading{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.cards{
+    color: blue;
+}
+.cards:hover{
+background: rgb(57, 57, 254);
+transform: scale(1,1.1);
+color: white;
+box-shadow: 0px 5px 5px 5px rgb(212, 212, 213);
+border-radius: 20px;
+}

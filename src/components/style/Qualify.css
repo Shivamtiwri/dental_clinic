@@ -1,0 +1,51 @@
+.doctor{
+    max-height: 200px;
+    max-width: 200px;
+}
+.doctor img{
+    position: relative;
+    max-height: 200px;
+    width: 150px;
+    top: -110px;
+    left: 50px;
+    
+}
+.me_khali{
+    height: 350px;
+    background: #a7d3e5;
+    border-radius: 10px 10px 0px 0px;
+}
+.card_shadow{
+    box-sizing: 0px 0px 10px 10px black;
+}
+
+.offMind{
+    height: 80px;
+    width: 80px;
+    border-radius: 60%;
+}
+.comma{
+    height: 50px;
+    width: 50px;
+    background: rgb(97, 97, 249);
+    float: right;
+    position: absolute;
+    border-radius: 50%;
+    top: -35px;
+    left: 600px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.inpForm{
+    height: 80px;
+    max-width: 900px;
+    margin:30px auto;
+    background: white;
+    border-radius: 10px;
+    line-height: 80px;
+    color: gray;
+    padding-left: 16px;
+    /* display: flex; */
+    
+}
