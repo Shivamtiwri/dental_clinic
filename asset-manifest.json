@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dental_clinic/static/css/main.afe63d8b.css",
+    "main.js": "/dental_clinic/static/js/main.54fd426e.js",
+    "static/media/off_mind.png": "/dental_clinic/static/media/off_mind.39abdf7158c6d793dfda.png",
+    "static/media/patiant2.jpg": "/dental_clinic/static/media/patiant2.89dd020bdf7e0f9ee3d0.jpg",
+    "static/media/medical_checkup.png": "/dental_clinic/static/media/medical_checkup.5c1344b3f0d6177f01e9.png",
+    "static/media/doctor.png": "/dental_clinic/static/media/doctor.9cc394ae531ed930f790.png",
+    "static/media/ambulance.png": "/dental_clinic/static/media/ambulance.00e74231d7175a8bb837.png",
+    "index.html": "/dental_clinic/index.html",
+    "main.afe63d8b.css.map": "/dental_clinic/static/css/main.afe63d8b.css.map",
+    "main.54fd426e.js.map": "/dental_clinic/static/js/main.54fd426e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe63d8b.css",
+    "static/js/main.54fd426e.js"
+  ]
+}
